@@ -1,0 +1,39 @@
+{
+  "id": 0,
+  "name": "string",
+  "review": 0,
+  "type": "string",
+  "about": "string",
+  "phone": "string",
+  "address": "string",
+  "schedule": {
+    "monday": {
+      "open": "1h",
+      "close": "23h"
+    },
+    "tuesday": {
+      "open": "1h",
+      "close": "23h"
+    },
+    "wednesday": {
+      "open": "1h",
+      "close": "23h"
+    },
+    "thursday": {
+      "open": "1h",
+      "close": "23h"
+    },
+    "friday": {
+      "open": "1h",
+      "close": "23h"
+    },
+    "saturday": {
+      "open": "1h",
+      "close": "23h"
+    },
+    "sunday": {
+      "open": "1h",
+      "close": "23h"
+    }
+  }
+}

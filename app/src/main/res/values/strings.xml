@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LocationApp</string>
+    <string name="title_activity_location_detail">LocationDetailActivity</string>
+    <string name="week_map">{
+                            "monday":"segunda-feira",
+                            "tuesday":"terça-feira",
+                            "wednesday":"quarta-feira",
+                            "thursday":"quinta-feira",
+                            "friday":"sexta-feira",
+                            "saturday":"sábado",
+                            "sunday":"domingo"
+                            }</string>
+    <string name="connection_error_message">Problemas de conexão</string>
+</resources>
